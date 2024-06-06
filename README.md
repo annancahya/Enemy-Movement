@@ -1,2 +1,2 @@
 # Enemy-Movement
-Membuat musuh dapat berjalan secara horizontal dan mendekati player agar ia bisa meninggal.
+Membuat musuh spawner dan mereka dapat berjalan secara horizontal untuk mendekati player, baik itu dari kiri atau kanan.
